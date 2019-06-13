@@ -1,4 +1,4 @@
-# Events-Embedding-and-stock-price-prediction
+# Events-Embedding-and-Future-price-prediction
 
 ### Environment
 
